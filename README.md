@@ -67,21 +67,21 @@
 
 **📊 Github Stats**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table style="border: 0px solid transparent">
+  <tr style="border: 0px solid transparent">
+    <td align="center" width="50%" style="border: 0px solid transparent">
       <a href="https://github.com/jayrajgb">
         <img src="https://github-readme-streak-stats-rho-gilt.vercel.app?user=jayrajgb&theme=chartreuse-dark&hide_border=true&card_width=475" alt="GitHub Streak" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 0px solid transparent">
       <a href="https://github.com/jayrajgb">
         <img src="https://github-readme-stats.vercel.app/api?username=jayrajgb&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&card_width=475" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
+  <tr style="border: 0px solid transparent">
+    <td colspan="2" align="center" width="100%" style="border: 0px solid transparent">
       <a href="https://github.com/jayrajgb">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajgb&layout=compact&theme=chartreuse-dark&hide_border=true&card_width=400" alt="Top Languages" />
       </a>
