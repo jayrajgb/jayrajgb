@@ -7,10 +7,10 @@
 <br/>
 
 <div align="center">
-    <a href="/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" style="vertical-align:center" /></a>
-    <!-- <a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> -->
+    <a href="https://jayraj-borate.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" style="vertical-align:center" /></a>
+    <!-- <a href="/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> -->
     <a href="https://linkedin.com/in/jayraj-borate-433035232" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-    <!-- <a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> -->
+    <!-- <a href="/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> -->
 </div>
 
 <br/>
@@ -88,3 +88,4 @@
     </td>
   </tr>
 </table>
+
