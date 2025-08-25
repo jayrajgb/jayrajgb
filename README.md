@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&color=CD51FF&center=true&vCenter=true&random=true&width=500&lines=HELLO+THERE!+I+AM+JAYRAJ;FULL+STACK+WEB+DEVELOPER)](https://github.com/jayrajgb)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&color=33ff60&center=true&vCenter=true&random=true&width=500&lines=HELLO+THERE!+I+AM+JAYRAJ;FULL+STACK+WEB+DEVELOPER)](https://github.com/jayrajgb)
 
 </div>
 
