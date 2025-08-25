@@ -1,8 +1,10 @@
-<div align="center"><img  src="./assets/YOU.png" alt="Hello, YOU"/></div>
+<!-- <div align="center"><img  src="./assets/YOU.png" alt="Hello, YOU"/></div> -->
+<div align="center"><img  src="./assets/linkedin-banner-shadowed.png"/></div>
 
 <br/>
 
-<div align="center">I am <s><i>Joe</i></s> <b>Jay</b> 😁👍</div>
+<!-- <div align="center">I am <s><i>Joe</i></s> <b>Jay</b> 😁👍</div> -->
+<div align="center">I am <b>Jayraj</b></div>
 
 <br/>
 
@@ -30,6 +32,7 @@
 <br/>
 
 **🪁 Skills Explored**
+
 <div align="center">
 
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
@@ -88,4 +91,3 @@
     </td>
   </tr>
 </table>
-
