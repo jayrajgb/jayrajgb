@@ -5,9 +5,13 @@
 
 <!-- <div align="center">I am <s><i>Joe</i></s> <b>Jay</b> 😁👍</div> -->
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&color=CD51FF&center=true&vCenter=true&random=true&width=500&lines=HELLO+THERE!+I+AM+JAYRAJ;FULL+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
-<br/>
+</div>
+
+<!-- <br/> -->
 
 <div align="center">
     <a href="https://jayraj-borate.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" style="vertical-align:center" /></a>
