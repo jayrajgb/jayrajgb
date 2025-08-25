@@ -1,5 +1,5 @@
 <!-- <div align="center"><img  src="./assets/YOU.png" alt="Hello, YOU"/></div> -->
-<div align="center"><img  src="./assets/linkedin-banner-shadowed.png"/></div>
+<div align="center"><img  src="./assets/linkedin-banner.png"/></div>
 
 <br/>
 
