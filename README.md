@@ -4,7 +4,8 @@
 <br/>
 
 <!-- <div align="center">I am <s><i>Joe</i></s> <b>Jay</b> 😁👍</div> -->
-<div align="center">Hello There! I am <b>Jayraj</b></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Climate+Crisis&pause=1000&color=CD51FF&center=true&vCenter=true&random=true&width=500&lines=HELLO+THERE!+I+AM+JAYRAJ;FULL+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 <br/>
 
