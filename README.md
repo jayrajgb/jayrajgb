@@ -101,10 +101,10 @@
 
 **💬 Reach Out**
 
-<div align="center">
-
 [![vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://jayraj-borate.vercel.app/#footer)
 [![gmail](https://skillicons.dev/icons?i=gmail&perline=3)](mailto:jayrajgborate11@gmail.com)
 [![linkedin](/assets/linkedin.svg)](https://www.linkedin.com/in/jayraj-borate-433035232/)
 
-</div>
+<br/>
+
+---
