@@ -42,7 +42,7 @@
 
 [![c](/assets/C.svg)](https://skillicons.dev)
 [![CPP](/assets/cpp.svg)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&perline=3)]()
 [![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 [![HTML](/assets/html.svg)](https://skillicons.dev)
 [![CSS](/assets/css.svg)](https://skillicons.dev)
@@ -96,3 +96,15 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+**💬 Reach Out**
+
+<div align="center">
+
+[![vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://jayraj-borate.vercel.app/#footer)
+[![gmail](https://skillicons.dev/icons?i=gmail&perline=3)](mailto:jayrajgborate11@gmail.com)
+[![linkedin](/assets/linkedin.svg)](https://www.linkedin.com/in/jayraj-borate-433035232/)
+
+</div>
