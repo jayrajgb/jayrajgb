@@ -64,10 +64,11 @@
 [![vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://github.com/jayrajgb)
 [![ts](/assets/ts.svg)](https://github.com/jayrajgb)
 [![next](https://skillicons.dev/icons?i=next&perline=3)](https://github.com/jayrajgb)
+[![redux](/assets/redux.svg)](https://github.com/jayrajgb)
 [![figma](https://skillicons.dev/icons?i=figma&perline=3)](https://github.com/jayrajgb)
-[![xd](https://skillicons.dev/icons?i=xd&perline=3)](https://github.com/jayrajgb)
-[![ai](https://skillicons.dev/icons?i=ai&perline=3)](https://github.com/jayrajgb)
-[![ps](https://skillicons.dev/icons?i=ps&perline=3)](https://github.com/jayrajgb)
+[![xd](/assets/xd.svg)](https://github.com/jayrajgb)
+[![ai](/assets/ai.svg)](https://github.com/jayrajgb)
+[![ps](/assets/ps.svg)](https://github.com/jayrajgb)
 
 </div>
 
